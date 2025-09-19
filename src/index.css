@@ -1,0 +1,62 @@
+*{ 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow'; 
+}
+
+
+body{
+  background-color: darksalmon;
+}
+
+
+button {
+  margin: 5px; padding: 10px 15px;
+  font-size: 16px; cursor: pointer;
+}
+
+
+div{
+ text-align: center;
+ margin-top: 25rem;
+ border-radius: 20px;
+}
+
+
+h1{
+    width: fit-content;
+  margin: auto;
+  border: 3px solid black;
+  border-radius: 20px;
+  padding: 5px 15px;
+}
+
+
+#btn1{
+  background-color: darkgreen;
+  height: 60px;
+  width: 80px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-radius: 20px;
+}
+
+
+#btn2{
+  background-color: yellow;
+   height: 60px;
+  width: 80px;
+  border-radius: 20px;
+  
+}
+
+
+#btn3{
+  background-color: red;
+   height: 70px;
+  width: 110px;
+  border-radius: 20px;
+}
+
+#counterid{
+  font-size: 50px;
+  color: black;
+  background-color: ;
+}
